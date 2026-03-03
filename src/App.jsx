@@ -398,7 +398,7 @@ function Splash({ onStart }) {
         <h1 style={{ marginBottom:6 }}>Know Your Diabetes</h1>
         <p style={{ fontSize:14, opacity:0.85, marginBottom:4 }}>A Patient Education Guide</p>
         <p style={{ fontSize:13, opacity:0.8, marginBottom:2, fontWeight:600 }}>Christian Umeokonkwo &amp; Skylar Ozkaynak</p>
-        <p style={{ fontSize:11, opacity:0.55, marginBottom:36 }}>Pathophysiology I · 2025</p>
+        <p style={{ fontSize:11, opacity:0.55, marginBottom:36 }}>Pathophysiology I · 2026</p>
         <div style={{ display:'flex', gap:10, justifyContent:'center', marginBottom:36, flexWrap:'wrap' }}>
           {['8 Topics','🇨🇦 Canadian Guidelines','Grade 6–8 Reading Level'].map((l, i) => (
             <div key={i} style={{ background:'rgba(255,255,255,0.16)', borderRadius:20, padding:'5px 13px', fontSize:11, fontWeight:600 }}>{l}</div>
@@ -514,7 +514,7 @@ export default function App() {
         <div style={{ margin:'0 16px 28px', padding:'12px 14px', background:'linear-gradient(135deg,#EFF6FF,#DBEAFE)', borderRadius:14, textAlign:'center', border:'1px solid #BFDBFE' }}>
           <p style={{ margin:0, lineHeight:1.7, color:'#475569' }}>
             Created by <strong style={{ color:'#2563EB' }}>Christian Umeokonkwo</strong> &amp; <strong style={{ color:'#2563EB' }}>Skylar Ozkaynak</strong><br/>
-            <span style={{ fontSize:11, opacity:0.7 }}>Pathophysiology I · 2025</span>
+            <span style={{ fontSize:11, opacity:0.7 }}>Pathophysiology I · 2026</span>
           </p>
         </div>
       </div>
